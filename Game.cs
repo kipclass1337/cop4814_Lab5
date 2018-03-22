@@ -1,4 +1,6 @@
-game.cs file was added during step 7 of this lab in the Branch_1 branch.
+//game.cs file was added during step 7 of this lab in the Branch_1 branch.
+
+//Different line    
 
 using System;
 using System.Collections.Generic;
